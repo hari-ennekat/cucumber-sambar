@@ -7,7 +7,7 @@ Feature: Add Todo
 {
   "targetDate": "2020-03-03",
   "description": "Test",
-  "user": "Ajay",
+  "user": "Hari",
   "done": false
 }
       """
